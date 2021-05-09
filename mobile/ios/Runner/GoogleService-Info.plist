@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>801104721667-q4k9i04m0juuctrgu1ntcuvjpq33u41r.apps.googleusercontent.com</string>
+	<string>801104721667-jpq18vl8dr0eoq67kj3v10n0u5r4e0b1.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.801104721667-q4k9i04m0juuctrgu1ntcuvjpq33u41r</string>
+	<string>com.googleusercontent.apps.801104721667-jpq18vl8dr0eoq67kj3v10n0u5r4e0b1</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>801104721667-1190gfpgs5bhvs366cfs5a1b6lch5cku.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.coupons</string>
+	<string>com.intellijapp.savingapp</string>
 	<key>PROJECT_ID</key>
 	<string>savingapp-50db6</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:801104721667:ios:1a0b512a4fc6548a895b36</string>
+	<string>1:801104721667:ios:5240c24d74ac16c0895b36</string>
 	<key>DATABASE_URL</key>
 	<string>https://savingapp-50db6-default-rtdb.europe-west1.firebasedatabase.app</string>
 </dict>
