@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801104721667",
+    "firebase_url": "https://savingapp-50db6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "savingapp-50db6",
+    "storage_bucket": "savingapp-50db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801104721667:android:24fdac45c14c7e1f895b36",
+        "android_client_info": {
+          "package_name": "com.savingapp.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801104721667-pb768nli3uidsvr897mojlb5jr1b1in1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJaEw0dt-uHNK0efq2IvaTXnF-7zEOnSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801104721667-pb768nli3uidsvr897mojlb5jr1b1in1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
